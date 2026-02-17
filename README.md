@@ -18,17 +18,6 @@ This project implements an end-to-end hand gesture recognition pipeline:
 - **Visualization**: Overlays hand landmarks, predicted gesture label, and confidence on video feed
 - **Output Recording**: Saves annotated video and individual frames as images
 
-## Project Structure
-
-```
-.
-├── Hand_Gestures.ipynb              # Training and model evaluation notebook
-├── hand_gesture_camera.py           # Real-time webcam inference script
-├── hand_landmarker.task             # MediaPipe hand landmark model (auto-downloaded if missing)
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-└── gesture_venv/                    # Python virtual environment
-```
 
 ## Prerequisites
 
@@ -116,4 +105,4 @@ This project is provided as-is for educational purposes.
 
 ## Author
 
-Developed as part of ITI Supervised Learning Initiative
+Developed as part of ITI Supervised Learning Course
