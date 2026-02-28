@@ -1,0 +1,14 @@
+artifact_uri: file:D:/ITI/Intake46/Supervised/project/New folder/Hand-Gesture-Recogonition/mlruns/478178084466709072/ff567fb555194d12a1ccea81fb48b479/artifacts
+end_time: 1772312648374
+entry_point_name: ''
+experiment_id: '478178084466709072'
+lifecycle_stage: active
+run_id: ff567fb555194d12a1ccea81fb48b479
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772312620702
+status: 3
+tags: []
+user_id: lenovo

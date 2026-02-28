@@ -1,0 +1,14 @@
+artifact_uri: file:D:/ITI/Intake46/Supervised/project/New folder/Hand-Gesture-Recogonition/mlruns/478178084466709072/41b2cf7e7d3747a58db151b863dd9a27/artifacts
+end_time: 1772312668840
+entry_point_name: ''
+experiment_id: '478178084466709072'
+lifecycle_stage: active
+run_id: 41b2cf7e7d3747a58db151b863dd9a27
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772312648391
+status: 3
+tags: []
+user_id: lenovo

@@ -19,7 +19,7 @@ def train_all_models(X, y, experiment_name="Hand Gestures", save_path="models/")
     )
 
     # set tracking url
-    mlflow.set_tracking_uri("http://127.0.0.1:5000")
+    mlflow.set_tracking_uri("mlruns")
     # Set MLflow experiment
     mlflow.set_experiment(experiment_name)
 

@@ -1,0 +1,14 @@
+artifact_uri: file:D:/ITI/Intake46/Supervised/project/New folder/Hand-Gesture-Recogonition/mlruns/478178084466709072/a01e9d57c2b64f69aad49a6b844d1fb5/artifacts
+end_time: 1772312674258
+entry_point_name: ''
+experiment_id: '478178084466709072'
+lifecycle_stage: active
+run_id: a01e9d57c2b64f69aad49a6b844d1fb5
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772312668851
+status: 3
+tags: []
+user_id: lenovo

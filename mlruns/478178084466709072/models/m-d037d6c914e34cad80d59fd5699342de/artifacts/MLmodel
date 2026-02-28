@@ -1,0 +1,23 @@
+artifact_path: file:D:/ITI/Intake46/Supervised/project/New folder/Hand-Gesture-Recogonition/mlruns/478178084466709072/models/m-d037d6c914e34cad80d59fd5699342de/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-d037d6c914e34cad80d59fd5699342de
+model_size_bytes: 2635353
+model_uuid: m-d037d6c914e34cad80d59fd5699342de
+prompts: null
+run_id: 41b2cf7e7d3747a58db151b863dd9a27
+utc_time_created: '2026-02-28 21:04:14.062621'
